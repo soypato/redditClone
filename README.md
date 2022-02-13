@@ -1,1 +1,14 @@
-# redditClone
+# MoreComplexReddit
+This project aims to showcase a Reddit clone, as follows:
+
+- We have a .json file that acts as a database, where there is information about posts, descriptions, images, reddits, and fictitious users.
+- If we with Express find that the path entered by the user matches the data in the .JSON, we render the page to display it (subreddit.ejs).
+- If we don't find it, we tell the user that the page doesn't exist (like a 404), and render the page to display it (notfound.ejs).
+
+In this project we use the following technologies:
+- NodeJS to run it on the server.
+- ExpressJS for routing and rendering.
+- EJS as a markup language to take advantage of ExpressJS.
+- Bootstrap for layout.
+
+*If you want to use this project, you will need to install them*
