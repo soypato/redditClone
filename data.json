@@ -1,0 +1,46 @@
+{
+  "chickens": {
+    "name": "chickens",
+    "suscribers": 345,
+    "description": "A best reddit about chickens (top #1)",
+    "posts": [{
+        "title": "What is the best chicken in the world?",
+        "user": "chicken_lover96",
+        "img": "https://cdn.pixabay.com/photo/2014/05/20/21/20/bird-349026_960_720.jpg"
+        },
+        {
+        "title": "My chicken is better",
+        "user": "animals_health",
+        "img": "https://cdn.pixabay.com/photo/2018/10/05/23/24/chicken-3727097_960_720.jpg"
+        },
+        {
+        "title": "Top #3 foods from chickens",
+        "user": "another.user.from.chicken_lover96",
+        "img": "https://cdn.pixabay.com/photo/2016/11/29/05/25/chicken-1867521_960_720.jpg"
+        }
+ 
+    ]
+},
+   "messi": {
+    "name": "Lionel Messi",
+    "suscribers": 1923129,
+    "description": "Best soccer player in the world!",
+    "posts": [{
+        "title": "Why Messi?",
+        "user": "messi_lover96",
+        "img": "https://media.gettyimages.com/photos/lionel-messi-of-barcelona-celebrates-scoring-his-sides-first-goal-picture-id846141966?s=2048x2048"
+        },
+        {
+        "title": "Top Messi goals",
+        "user": "messi_health",
+        "img": "https://media.gettyimages.com/photos/lionel-messi-of-fc-barcelona-celebrates-after-scoring-his-teams-first-picture-id1211008792?s=2048x2048"
+        },
+        {
+        "title": "Football + Messi Football PRO",
+        "user": "another.user.from.messi_lover96",
+        "img": "https://static01.nyt.com/images/2019/04/16/sports/16onsoccerweb-2/merlin_153612873_5bb119b9-8972-4087-b4fd-371cab8c5ba2-superJumbo.jpg"
+        }
+ 
+    ] 
+}
+}

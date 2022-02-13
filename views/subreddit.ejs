@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> <%= name %> subreddit</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/mobile.css">
+	<link rel="stylesheet" href="/css/tablet.css">
+	<link rel="stylesheet" href="/css/desktop.css">
+	<script src="/js/jquery.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/jquery.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<%- include ('partials/navBootstrap.ejs') %> 
+	<div class="disGrid">
+		<main>
+			<h1>Browsing the <%= name %> subreddit</h1>
+			<h2><%= description %></h2>
+			<p class="subs"><%= suscribers %> Total Suscribers</p>
+	
+			<% for(let post of posts) { %>
+			<article>
+				<h3> <%= post.title %></h3>
+				<p class="user">posted by <%= post.user%> </p>
+				<% if(post.img){ %>
+					<img src="<%= post.img %>" alt="">
+				<% } %>
+			</article>
+	<% } %>
+	</div>
+	</main>
+</body>
+</html>
