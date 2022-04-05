@@ -12,3 +12,8 @@ In this project we use the following technologies:
 - Bootstrap for layout.
 
 *If you want to use this project, you will need to install them*
+
+## Installation
+Then run `npm install `to install all required dependencies (this will create a /node_modules folder).
+
+
