@@ -1,4 +1,9 @@
 # MoreComplexReddit
+
+## Display
+To see the project deployed in real time from Vercel, go right now to [https://reddit-with-express-akhg7cbue-soypato.vercel.app/](https://reddit-with-express-akhg7cbue-soypato.vercel.app/ "https://reddit-with-express-akhg7cbue-soypato.vercel.app/") to see it in real time, to see source code, go to [https://github.com/soypato/redditClone](https://github.com/soypato/redditClone "https://github.com/soypato/redditClone")
+
+## Description
 This project aims to showcase a Reddit clone, as follows:
 
 - We have a .json file that acts as a database, where there is information about posts, descriptions, images, reddits, and fictitious users.
@@ -12,9 +17,6 @@ In this project we use the following technologies:
 - Bootstrap for layout.
 
 *If you want to use this project, you will need to install them*
-
-## Display
-To see the project deployed in real time from Vercel, go right now to [https://reddit-with-express-akhg7cbue-soypato.vercel.app/](https://reddit-with-express-akhg7cbue-soypato.vercel.app/ "https://reddit-with-express-akhg7cbue-soypato.vercel.app/") to see it in real time.
 
 ## Installation
 Then run `npm install` to install all required dependencies (this will create a /node_modules folder).
