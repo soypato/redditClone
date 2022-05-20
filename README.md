@@ -14,7 +14,7 @@ In this project we use the following technologies:
 *If you want to use this project, you will need to install them*
 
 ### Display
-To see the project deployed in real time from Vercel, go right now to [https://reddit-with-express-akhg7cbue-soypato.vercel.app/](https://reddit-with-express-akhg7cbue-soypato. vercel.app/ "https://reddit-with-express-akhg7cbue-soypato.vercel.app/") to see it in real time.
+To see the project deployed in real time from Vercel, go right now to [https://reddit-with-express-akhg7cbue-soypato.vercel.app/](https://reddit-with-express-akhg7cbue-soypato.vercel.app/ "https://reddit-with-express-akhg7cbue-soypato.vercel.app/") to see it in real time.
 
 ## Installation
 Then run `npm install` to install all required dependencies (this will create a /node_modules folder).
