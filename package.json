@@ -1,3 +1,12 @@
+
+{
+  "name": "vercel-testing",
+  "version": "1.0.0",
+  "description": "node express testing",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+ },
 {
   "dependencies": {
     "ejs": "^3.1.6",
